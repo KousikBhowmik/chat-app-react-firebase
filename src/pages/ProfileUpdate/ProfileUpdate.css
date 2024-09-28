@@ -19,7 +19,7 @@
 .profile-pic{
     max-width: 160px;
     aspect-ratio: 1/1;
-    margin: 20 auto;
+    margin: 20px auto;
     border-radius: 50%;
 }
 
@@ -47,7 +47,7 @@
 .profile label img{
     width: 50px;
     aspect-ratio: 1/1;
-    border: 50%;
+    border-radius: 50%;
 }
 
 .profile input, textarea{
